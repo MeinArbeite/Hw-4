@@ -1,0 +1,90 @@
+{
+    "name": "John",
+    "age": 21
+}
+
+
+*
+// [
+//     {
+//         "key":1,
+//         "img":"Deutschland-www",
+//         "title": "Mercedec-benz",
+//         "description": "good",
+//         "price": "15000euro"
+        
+//     },
+
+//     {
+//         "key": 2,
+//         "img": "Bauern-www",
+//         "title": "BMW",
+//         "description": "prima",
+//         "price": "16000euro"
+//     },
+
+//     {
+//         "key": 3,
+//         "img": "vw.com",
+//         "title": "Volkswagen",
+//         "description": "universal",
+//         "price": "12000euro"
+//     },
+
+//     {
+//         "key": 4,
+//         "img": "audi.ru",
+//         "title": "AUDI",
+//         "description": "alt",
+//         "price": "10000euro"
+//     },
+
+//     {
+//         "key": 5,
+//         "img": "opel.ru",
+//         "title": "Opel",
+//         "description": "altest",
+//         "price": "8000euro"
+//     },
+
+//     {
+//         "key": 6,
+//         "img": "porsche.com",
+//         "title": "Porsche",
+//         "description": "altest",
+//         "price": "6000euro"
+//     },
+
+//     {
+//         "key": 7,
+//         "img": "alpin.com",
+//         "title": "ALPINA",
+//         "description": "neu",
+//         "price": "13000euro"
+//     },
+
+//     {
+//         "key": 8,
+//         "img": "Bitt.com",
+//         "title": "Bitter",
+//         "description": "normal",
+//         "price": "11000"
+//     },
+
+//     {
+//         "key": 9,
+//         "img": "gamp.com",
+//         "title": "GAMPERT",
+//         "description": "modern",
+//         "price": "12000euro"
+//     }, 
+
+//     {
+//         "key": 10,
+//         "img": "kein.com",
+//         "title": "KEINATH",
+//         "description": "nicht-modern",
+//         "price": "14000euro"
+//     }
+
+// ] */
